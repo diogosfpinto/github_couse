@@ -1,7 +1,8 @@
-package com.diogopinto.atmconsultoria;
+package com.diogopinto.atmconsultoria.activity;
 
 import android.os.Bundle;
 
+import com.diogopinto.atmconsultoria.R;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 
